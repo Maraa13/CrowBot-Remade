@@ -1,13 +1,13 @@
 {
-    "token": "token",
+    "token": "MTI1NzQ0MzA2NTI2MjUwNjA0NQ.GV1bWK.4TStnXVi_SCpQTbLEpsjfuF2P7kqASvmhF4Xtw",
     "color": "embecolor",
-    "prefix": "&",
-    "name": "Footer Name",
+    "prefix": "+",
+    "name": "MaRa",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "tonid",
+        "771431614357569587",
         "id"
     ]
 }
